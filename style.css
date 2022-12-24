@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: mostserrat;
+}
+
+body{ display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(113, 89, 80);
+    height: 100vh;
+
+}
+
+#customtext{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    
+}
+.box{
+    background-color: bisque;
+    width: px;
+    height: 350px;
+    align-items: center;
+}
+p{
+    background-color: rgb(99, 99, 17);
+    color: lightgray;
+    height: 50px;
+}
+.box #image{
+    
+    justify-content: center;
+
+    border: 10px ;
+    align-items: center;
+    height: 200px;
+    
+    row-gap: 25px;
+}
